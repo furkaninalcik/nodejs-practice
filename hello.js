@@ -7,7 +7,7 @@ var app = express();
 
 app.get('/',function (req,res){
 
-	res.sendFile(__dirname + '/personal-website-template/index.html');
+	res.sendFile(__dirname + '/index.html');
 
 });
 
