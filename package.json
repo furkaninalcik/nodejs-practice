@@ -1,0 +1,23 @@
+{
+  "name": "furkan",
+  "version": "1.0.0",
+  "description": "backend test application",
+  "main": "hello.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkaninalcik/nodejs-practice.git"
+  },
+  "author": "Furkan İnalcık",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkaninalcik/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/furkaninalcik/nodejs-practice#readme"
+}

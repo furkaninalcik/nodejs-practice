@@ -144,3 +144,50 @@ ps -h
 su -root
 su  -root
 su - root
+ls
+xset m 1 1
+ls
+cd node_modules/
+ls
+cd ..
+node -v
+sudo vim /etc/nginx/sites-available/default 
+ps -h
+systemctl status pm2-furkan.service 
+ls
+vim hello.js 
+sudo vim /etc/nginx/sites-available/default 
+ls
+npm start
+./hello.js 
+pm2 restart
+pm2 restart hello.js 
+./hello.js 
+ls
+pm2 stop hello.js 
+pm2 restart hello.js 
+sudo vim /etc/nginx/sites-available/default 
+vim hello.js 
+pm2 restart hello.js 
+git init
+git add .
+git commit -m "initialized nodejs app"
+git config --global user.email m.furkaninalcik@gmail.com
+git config --global user.name furkaninalcik
+git commit -m "initialized nodejs app"
+git status
+ls
+git status
+git remote add origin https://github.com/furkaninalcik/nodejs-practice.git
+git status
+git push -u origin master
+exit
+vim hello.js 
+pm2 restart hello.js 
+ls
+vim hello.js 
+pm2 restart
+pm2 restart hello.js 
+ext
+exit
+vim hello.js 

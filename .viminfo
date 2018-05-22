@@ -11,8 +11,8 @@
 ~Msle0~/\<try_files\>
 
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
 :q!
 
 # Search String History (newest to oldest):
@@ -25,46 +25,51 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
+"0	LINE	0
 	#!/usr/bin/env nodejs
 	var http = require('http');
-"1	LINE	0
-			 uri $uri/ =404;
+""1	LINE	0
+	  res.end('Hey, welcome to my dummy website, my name is Furkan Inalcik!\n');
 "2	LINE	0
 			 uri $uri/ =404;
 "3	LINE	0
-			 $uri $uri/ =404;
+			 uri $uri/ =404;
 "4	LINE	0
-			proxy_pass http://localhost:8080;
+			 $uri $uri/ =404;
 "5	LINE	0
 			proxy_pass http://localhost:8080;
 "6	LINE	0
 			proxy_pass http://localhost:8080;
-		
 "7	LINE	0
-	        	proxy_http_version 1.1;
+			proxy_pass http://localhost:8080;
+		
 "8	LINE	0
-	        	proxy_set_header Upgrade $http_upgrade;
+	        	proxy_http_version 1.1;
 "9	LINE	0
-		        proxy_set_header Connection 'upgrade';
+	        	proxy_set_header Upgrade $http_upgrade;
 "-	CHAR	0
-	o
+	'
 
 # File marks:
-'0  5  24  ~/hello.js
-'1  35  0  /etc/nginx/sites-available/default
-'2  48  0  /etc/nginx/sites-available/default
-'3  1  0  ~/hello.js
-'4  66  0  /etc/nginx/sites-available/default
-'5  12  0  /etc/nginx/sites-available/default
-'6  52  8  /etc/nginx/sites-available/default
-'7  53  0  /etc/nginx/sites-available/default
-'8  46  1  /etc/nginx/sites-available/default
-'9  55  1  /etc/nginx/sites-available/default
+'0  1  0  ~/hello.js
+'1  10  66  ~/hello.js
+'2  23  1  ~/hello.js
+'3  18  94  ~/hello.js
+'4  1  0  ~/package.json
+'5  19  22  ~/hello.js
+'6  17  35  ~/hello.js
+'7  35  0  /etc/nginx/sites-available/default
+'8  48  0  /etc/nginx/sites-available/default
+'9  66  0  /etc/nginx/sites-available/default
 
 # Jumplist (newest first):
--'  5  24  ~/hello.js
 -'  1  0  ~/hello.js
+-'  10  66  ~/hello.js
+-'  23  1  ~/hello.js
+-'  18  94  ~/hello.js
+-'  1  0  ~/package.json
+-'  19  22  ~/hello.js
+-'  17  35  ~/hello.js
 -'  35  0  /etc/nginx/sites-available/default
 -'  1  0  /etc/nginx/sites-available/default
 -'  48  0  /etc/nginx/sites-available/default
@@ -76,8 +81,7 @@
 -'  54  40  /etc/nginx/sites-available/default
 -'  55  1  /etc/nginx/sites-available/default
 -'  44  31  /etc/nginx/sites-available/default
--'  6  10  ~/hello.js
--'  7  55  ~/hello.js
+-'  21  55  ~/hello.js
 -'  295  0  ~/nodesource_setup.sh
 -'  1  0  ~/nodesource_setup.sh
 -'  14  21  /var/www/html/index.nginx-debian.html
@@ -148,24 +152,46 @@
 -'  1  0  ~/nodesource_setup.sh
 -'  14  21  /var/www/html/index.nginx-debian.html
 -'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
+-'  35  0  /etc/nginx/sites-available/default
+-'  1  0  /etc/nginx/sites-available/default
+-'  48  0  /etc/nginx/sites-available/default
+-'  66  0  /etc/nginx/sites-available/default
+-'  12  0  /etc/nginx/sites-available/default
+-'  52  8  /etc/nginx/sites-available/default
+-'  46  2  /etc/nginx/sites-available/default
+-'  53  0  /etc/nginx/sites-available/default
 
 # History of marks within files (newest to oldest):
 
 > ~/hello.js
-	"	5	24
-	^	5	25
-	.	5	24
-	+	7	52
-	+	5	24
+	"	1	0
+	^	10	67
+	.	10	65
+	+	21	52
+	+	17	11
+	+	17	35
+	+	16	47
+	+	3	23
+	+	17	0
+	+	18	102
+	+	19	22
+	+	8	0
+	+	4	33
+	+	6	20
+	+	8	23
+	+	11	0
+	+	10	3
+	+	8	27
+	+	10	14
+	+	14	1
+	+	23	1
+	+	8	11
+	+	10	65
+	e	18	2
+	y	18	18
+
+> ~/package.json
+	"	1	0
 
 > /etc/nginx/sites-available/default
 	"	35	0

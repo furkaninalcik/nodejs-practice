@@ -128,3 +128,227 @@
 [2018-05-16 16:07:38] PM2 log: pid=23774 msg=process killed
 [2018-05-16 16:07:38] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
 [2018-05-16 16:07:38] PM2 log: App name:hello id:0 online
+[2018-05-16 16:13:47] PM2 log: Stopping app:hello id:0
+[2018-05-16 16:13:47] PM2 log: App [hello] with id [0] and pid [23852], exited with code [0] via signal [SIGINT]
+[2018-05-16 16:13:47] PM2 log: pid=23852 msg=process killed
+[2018-05-16 16:13:47] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-16 16:13:47] PM2 log: App name:hello id:0 online
+[2018-05-17 13:37:30] PM2 log: Stopping app:hello id:0
+[2018-05-17 13:37:30] PM2 log: App [hello] with id [0] and pid [23986], exited with code [0] via signal [SIGINT]
+[2018-05-17 13:37:30] PM2 log: pid=23986 msg=process killed
+[2018-05-17 13:37:30] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-17 13:37:30] PM2 log: App name:hello id:0 online
+[2018-05-22 22:34:36] PM2 log: Stopping app:hello id:0
+[2018-05-22 22:34:36] PM2 log: App [hello] with id [0] and pid [4875], exited with code [0] via signal [SIGINT]
+[2018-05-22 22:34:36] PM2 log: pid=4875 msg=process killed
+[2018-05-22 22:34:36] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:34:36] PM2 log: App name:hello id:0 online
+[2018-05-22 22:58:33] PM2 log: Stopping app:hello id:0
+[2018-05-22 22:58:33] PM2 log: App [hello] with id [0] and pid [18838], exited with code [0] via signal [SIGINT]
+[2018-05-22 22:58:33] PM2 log: pid=18838 msg=process killed
+[2018-05-22 22:58:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:58:33] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:30] PM2 log: Stopping app:hello id:0
+[2018-05-22 22:59:30] PM2 log: App [hello] with id [0] and pid [19725], exited with code [0] via signal [SIGINT]
+[2018-05-22 22:59:30] PM2 log: pid=19725 msg=process killed
+[2018-05-22 22:59:30] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:30] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:30] PM2 log: App [hello] with id [0] and pid [19805], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:30] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:30] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:30] PM2 log: App [hello] with id [0] and pid [19831], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:30] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:30] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:31] PM2 log: App [hello] with id [0] and pid [19857], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:31] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:31] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:31] PM2 log: App [hello] with id [0] and pid [19883], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:31] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:31] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:31] PM2 log: App [hello] with id [0] and pid [19909], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:31] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:31] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:31] PM2 log: App [hello] with id [0] and pid [19935], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:31] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:31] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:31] PM2 log: App [hello] with id [0] and pid [19961], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:31] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:31] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:32] PM2 log: App [hello] with id [0] and pid [19987], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:32] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:32] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:32] PM2 log: App [hello] with id [0] and pid [20013], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:32] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:32] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:32] PM2 log: App [hello] with id [0] and pid [20039], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:32] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:32] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:32] PM2 log: App [hello] with id [0] and pid [20065], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:32] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:32] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:33] PM2 log: App [hello] with id [0] and pid [20091], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:33] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:33] PM2 log: App [hello] with id [0] and pid [20117], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:33] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:33] PM2 log: App [hello] with id [0] and pid [20143], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:33] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:33] PM2 log: App [hello] with id [0] and pid [20169], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:33] PM2 log: App name:hello id:0 online
+[2018-05-22 22:59:34] PM2 log: App [hello] with id [0] and pid [20195], exited with code [1] via signal [SIGINT]
+[2018-05-22 22:59:34] PM2 log: Script /home/furkan/hello.js had too many unstable restarts (16). Stopped. "errored"
+[2018-05-22 22:59:46] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 22:59:46] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:51] PM2 log: Stopping app:hello id:0
+[2018-05-22 23:36:51] PM2 log: App [hello] with id [0] and pid [20248], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:36:51] PM2 log: pid=20248 msg=process killed
+[2018-05-22 23:36:51] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:51] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:52] PM2 log: App [hello] with id [0] and pid [21614], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:52] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:52] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:52] PM2 log: App [hello] with id [0] and pid [21640], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:52] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:52] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:52] PM2 log: App [hello] with id [0] and pid [21666], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:52] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:52] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:52] PM2 log: App [hello] with id [0] and pid [21692], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:52] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:52] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:53] PM2 log: App [hello] with id [0] and pid [21718], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:53] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:53] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:53] PM2 log: App [hello] with id [0] and pid [21744], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:53] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:53] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:53] PM2 log: App [hello] with id [0] and pid [21770], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:53] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:53] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:53] PM2 log: App [hello] with id [0] and pid [21796], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:53] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:53] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:53] PM2 log: App [hello] with id [0] and pid [21822], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:53] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:53] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:54] PM2 log: App [hello] with id [0] and pid [21850], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:54] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:54] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:54] PM2 log: App [hello] with id [0] and pid [21876], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:54] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:54] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:54] PM2 log: App [hello] with id [0] and pid [21902], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:54] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:54] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:54] PM2 log: App [hello] with id [0] and pid [21928], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:54] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:54] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:55] PM2 log: App [hello] with id [0] and pid [21954], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:55] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:55] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:55] PM2 log: App [hello] with id [0] and pid [21980], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:55] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:36:55] PM2 log: App name:hello id:0 online
+[2018-05-22 23:36:55] PM2 log: App [hello] with id [0] and pid [22006], exited with code [1] via signal [SIGINT]
+[2018-05-22 23:36:55] PM2 log: Script /home/furkan/hello.js had too many unstable restarts (16). Stopped. "errored"
+[2018-05-22 23:37:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:33] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:33] PM2 log: App [hello] with id [0] and pid [22055], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:33] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:33] PM2 log: App [hello] with id [0] and pid [22081], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:33] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:33] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:34] PM2 log: App [hello] with id [0] and pid [22107], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:34] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:34] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:34] PM2 log: App [hello] with id [0] and pid [22133], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:34] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:34] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:34] PM2 log: App [hello] with id [0] and pid [22159], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:34] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:34] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:35] PM2 log: App [hello] with id [0] and pid [22185], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:35] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:35] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:35] PM2 log: App [hello] with id [0] and pid [22211], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:35] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:35] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:35] PM2 log: App [hello] with id [0] and pid [22237], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:35] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:35] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:36] PM2 log: App [hello] with id [0] and pid [22263], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:36] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:36] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:36] PM2 log: App [hello] with id [0] and pid [22289], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:36] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:36] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:36] PM2 log: App [hello] with id [0] and pid [22315], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:36] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:36] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:37] PM2 log: App [hello] with id [0] and pid [22341], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:37] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:37] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:37] PM2 log: App [hello] with id [0] and pid [22367], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:37] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:37] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:37] PM2 log: App [hello] with id [0] and pid [22393], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:37] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:37] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:38] PM2 log: App [hello] with id [0] and pid [22419], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:38] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:37:38] PM2 log: App name:hello id:0 online
+[2018-05-22 23:37:38] PM2 log: App [hello] with id [0] and pid [22445], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:37:38] PM2 log: Script /home/furkan/hello.js had too many unstable restarts (16). Stopped. "errored"
+[2018-05-22 23:38:41] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:41] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:42] PM2 log: App [hello] with id [0] and pid [22510], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:42] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:42] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:42] PM2 log: App [hello] with id [0] and pid [22536], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:42] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:42] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:42] PM2 log: App [hello] with id [0] and pid [22562], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:42] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:42] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:43] PM2 log: App [hello] with id [0] and pid [22588], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:43] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:43] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:43] PM2 log: App [hello] with id [0] and pid [22614], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:43] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:43] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:43] PM2 log: App [hello] with id [0] and pid [22640], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:43] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:43] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:44] PM2 log: App [hello] with id [0] and pid [22666], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:44] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:44] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:44] PM2 log: App [hello] with id [0] and pid [22692], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:44] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:44] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:44] PM2 log: App [hello] with id [0] and pid [22718], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:44] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:44] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:45] PM2 log: App [hello] with id [0] and pid [22744], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:45] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:45] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:45] PM2 log: App [hello] with id [0] and pid [22770], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:45] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:45] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:45] PM2 log: App [hello] with id [0] and pid [22796], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:45] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:45] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:46] PM2 log: App [hello] with id [0] and pid [22822], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:46] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:46] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:46] PM2 log: App [hello] with id [0] and pid [22848], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:46] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:46] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:47] PM2 log: App [hello] with id [0] and pid [22874], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:47] PM2 log: Starting execution sequence in -fork mode- for app name:hello id:0
+[2018-05-22 23:38:47] PM2 log: App name:hello id:0 online
+[2018-05-22 23:38:47] PM2 log: App [hello] with id [0] and pid [22900], exited with code [0] via signal [SIGINT]
+[2018-05-22 23:38:47] PM2 log: Script /home/furkan/hello.js had too many unstable restarts (16). Stopped. "errored"
