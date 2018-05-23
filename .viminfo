@@ -8,7 +8,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0~/\<try_files\>
+~MSle0~/\<try_files\>
+
+# Last Substitute String:
+$
 
 # Command Line History (newest to oldest):
 :q
@@ -16,6 +19,7 @@
 :q!
 
 # Search String History (newest to oldest):
+? @$
 ? \<try_files\>
 
 # Expression History (newest to oldest):
@@ -26,52 +30,67 @@
 
 # Registers:
 "0	LINE	0
-	#!/usr/bin/env nodejs
-	var http = require('http');
-""1	LINE	0
-	  res.end('Hey, welcome to my dummy website, my name is Furkan Inalcik!\n');
+	
 "2	LINE	0
-			 uri $uri/ =404;
+	var httpm = requrire('http');
 "3	LINE	0
-			 uri $uri/ =404;
+	
 "4	LINE	0
-			 $uri $uri/ =404;
+	ddvar fs = require('fs');
 "5	LINE	0
-			proxy_pass http://localhost:8080;
+	var http = require('http');
 "6	LINE	0
-			proxy_pass http://localhost:8080;
+	#!/usr/bin/env nodejs
 "7	LINE	0
-			proxy_pass http://localhost:8080;
-		
+	  res.end('Hey, welcome to my dummy website, my name is Furkan Inalcik!\n');
 "8	LINE	0
-	        	proxy_http_version 1.1;
+			 uri $uri/ =404;
 "9	LINE	0
-	        	proxy_set_header Upgrade $http_upgrade;
-"-	CHAR	0
-	'
+			 uri $uri/ =404;
+""-	CHAR	0
+	/
 
 # File marks:
-'0  1  0  ~/hello.js
-'1  10  66  ~/hello.js
-'2  23  1  ~/hello.js
-'3  18  94  ~/hello.js
-'4  1  0  ~/package.json
-'5  19  22  ~/hello.js
-'6  17  35  ~/hello.js
-'7  35  0  /etc/nginx/sites-available/default
-'8  48  0  /etc/nginx/sites-available/default
-'9  66  0  /etc/nginx/sites-available/default
+'0  12  0  ~/hello.js
+'1  11  2  ~/hello.js
+'2  11  6  ~/index.html
+'3  1  0  ~/ht
+'4  1  0  ~/hello.js
+'5  16  16  ~/hello.js
+'6  18  32330  ~/hello.js
+'7  30  1  ~/hello.js
+'8  4  12  ~/hello.js
+'9  40  0  /etc/nginx/nginx.conf
 
 # Jumplist (newest first):
+-'  12  0  ~/hello.js
 -'  1  0  ~/hello.js
--'  10  66  ~/hello.js
--'  23  1  ~/hello.js
--'  18  94  ~/hello.js
--'  1  0  ~/package.json
--'  19  22  ~/hello.js
--'  17  35  ~/hello.js
--'  35  0  /etc/nginx/sites-available/default
+-'  11  2  ~/hello.js
+-'  11  6  ~/index.html
+-'  1  0  ~/index.html
+-'  1  0  ~/ht
+-'  16  16  ~/hello.js
+-'  18  32330  ~/hello.js
+-'  30  1  ~/hello.js
+-'  4  12  ~/hello.js
+-'  40  0  /etc/nginx/nginx.conf
+-'  1  0  /etc/nginx/nginx.conf
+-'  44  0  /etc/nginx/sites-available/default
 -'  1  0  /etc/nginx/sites-available/default
+-'  24  54  ~/hello.js
+-'  5  1  ~/hello.js
+-'  7  0  ~/hello.js
+-'  8  0  /etc/nginx/sites-available
+-'  1  0  /var/log/nginx/access.log
+-'  1  0  /var/log/nginx/error.log
+-'  54  0  /var/log/nginx/access.log
+-'  1  0  /var/log/nginx/error.log.1
+-'  1  0  ~/package.json
+-'  118  0  ~/nodesource_setup.sh
+-'  1  0  ~/nodesource_setup.sh
+-'  25  22  ~/hello.js
+-'  23  35  ~/hello.js
+-'  35  0  /etc/nginx/sites-available/default
 -'  48  0  /etc/nginx/sites-available/default
 -'  66  0  /etc/nginx/sites-available/default
 -'  12  0  /etc/nginx/sites-available/default
@@ -80,121 +99,148 @@
 -'  53  0  /etc/nginx/sites-available/default
 -'  54  40  /etc/nginx/sites-available/default
 -'  55  1  /etc/nginx/sites-available/default
--'  44  31  /etc/nginx/sites-available/default
--'  21  55  ~/hello.js
+-'  28  55  ~/hello.js
 -'  295  0  ~/nodesource_setup.sh
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  14  21  /var/www/html/index.nginx-debian.html
+-'  1  0  /var/www/html/index.nginx-debian.html
+-'  118  0  ~/nodesource_setup.sh
 -'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
+-'  8  0  /etc/nginx/sites-available
+-'  1  0  /var/log/nginx/access.log
+-'  1  0  /var/log/nginx/error.log
+-'  54  0  /var/log/nginx/access.log
+-'  1  0  /var/log/nginx/error.log.1
+-'  1  0  ~/package.json
+-'  118  0  ~/nodesource_setup.sh
 -'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  295  0  ~/nodesource_setup.sh
--'  1  0  ~/nodesource_setup.sh
--'  14  21  /var/www/html/index.nginx-debian.html
--'  1  0  /var/www/html/index.nginx-debian.html
--'  35  0  /etc/nginx/sites-available/default
--'  1  0  /etc/nginx/sites-available/default
--'  48  0  /etc/nginx/sites-available/default
--'  66  0  /etc/nginx/sites-available/default
--'  12  0  /etc/nginx/sites-available/default
--'  52  8  /etc/nginx/sites-available/default
--'  46  2  /etc/nginx/sites-available/default
--'  53  0  /etc/nginx/sites-available/default
+-'  29  1  ~/hello.js
+-'  8  0  /etc/nginx/sites-available
+-'  1  0  /var/log/nginx/access.log
 
 # History of marks within files (newest to oldest):
 
 > ~/hello.js
-	"	1	0
-	^	10	67
-	.	10	65
-	+	21	52
-	+	17	11
-	+	17	35
-	+	16	47
-	+	3	23
-	+	17	0
-	+	18	102
-	+	19	22
+	"	12	0
+	^	12	28
+	.	12	27
+	+	28	52
+	+	23	11
+	+	23	35
+	+	22	47
+	+	1	23
+	+	23	0
+	+	24	102
+	+	25	22
+	+	9	0
+	+	1	33
+	+	5	20
+	+	9	23
+	+	13	0
+	+	11	3
+	+	9	27
+	+	11	14
+	+	20	1
+	+	30	1
+	+	9	11
+	+	11	27
+	+	1	0
+	+	1	0
+	+	1	0
+	+	5	10
+	+	11	14
+	+	12	2
+	+	18	0
+	+	18	14
+	+	5	9
+	+	18	11
+	+	8	1
+	+	18	1
+	+	20	0
+	+	30	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	2	7
+	+	4	20
+	+	2	15
+	+	5	1
+	+	26	0
+	+	4	13
+	+	5	0
+	+	6	0
 	+	8	0
-	+	4	33
-	+	6	20
-	+	8	23
-	+	11	0
-	+	10	3
-	+	8	27
-	+	10	14
-	+	14	1
-	+	23	1
-	+	8	11
-	+	10	65
-	e	18	2
-	y	18	18
+	+	18	1
+	+	30	1
+	+	18	14
+	+	11	18
+	+	18	32330
+	+	18	0
+	+	16	16
+	+	12	0
+	+	11	2
+	+	12	27
+	e	24	2
+	y	24	18
 
-> ~/package.json
+> ~/index.html
+	"	11	6
+	^	11	7
+	.	11	7
+	+	8	47
+	+	11	7
+
+> ~/ht
 	"	1	0
+
+> /etc/nginx/nginx.conf
+	"	40	0
 
 > /etc/nginx/sites-available/default
-	"	35	0
+	"	44	0
 	^	52	9
 	.	52	9
 	+	44	1
@@ -240,8 +286,17 @@
 	+	51	9
 	+	52	9
 
+> /var/log/nginx/access.log
+	"	1	0
+
+> /var/log/nginx/error.log
+	"	1	0
+
+> ~/package.json
+	"	1	0
+
 > ~/nodesource_setup.sh
-	"	295	0
+	"	118	0
 
 > /var/www/html/index.nginx-debian.html
 	"	14	21
